@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Contacto</string>
+    <string name="tx_name">Nombre Completo</string>
+    <string name="tx_phone">Telefono</string>
+    <string name="tx_mail">Email</string>
+    <string name="tx_desc">Descripcion Contacto</string>
+    <string name="btn_next">Siguiente</string>
+    <string name="tx_conf_dat">Confirmar Datos</string>
+    <string name="btn_edit">Editar</string>
+    <string name="tx_date">Fecha de Nacimiento</string>
+    <string name="tx_desc2">Descripcion</string>
+
+</resources>
